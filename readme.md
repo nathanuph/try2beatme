@@ -1,6 +1,6 @@
-# Spotify Battle (name TBD)
+# try2beatme
 
-Users can link their Spotify to battle their friends with their music listening stats
+Web app, users can link their Spotify to battle their friends with their music listening stats
 
 ---
 
