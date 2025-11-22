@@ -17,8 +17,16 @@ Web app, users can link their Spotify to battle their friends with their music l
 
 4. Run the app:
     ```bash
-    flask --app myapp run
+    python run.py
     ```
+
+    or try
+
+    ```bash
+    python3 run.py
+    ```
+
+    The website will then be loaded on your local port!
 
 ### Prerequisites
 
